@@ -18,9 +18,12 @@
 
 - **Frameworks y Librerías:**  
   ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
+  ![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 - **Bases de Datos:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
 
 *(Más proyectos en progreso y por venir...)*  
 
