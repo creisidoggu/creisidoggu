@@ -13,7 +13,6 @@
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)  
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/SQL-%230084C1.svg?&style=flat-square&logo=postgresql&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 - **Frameworks y Librerías:**  
