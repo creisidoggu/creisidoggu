@@ -23,7 +23,7 @@
 
 - **Bases de Datos:**  
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 
 *(Más proyectos en progreso y por venir...)*  
 
