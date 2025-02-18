@@ -28,7 +28,7 @@
 *(Más proyectos en progreso y por venir...)*  
 
 ## 🌱 ¿En qué estoy trabajando actualmente?  
-- Desarrollo de proyectos relacionados con **Inteligencia Artificial y Big Data**.  
+- Desarrollo de proyectos relacionados con **Inteligencia Artificial y Big Data** además de **aprender frameworks web para futuros proyectos**.  
 - Explorando nuevas tecnologías y herramientas para el análisis de datos y el aprendizaje automático.  
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y aportar tus ideas 🚀.
