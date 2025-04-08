@@ -20,10 +20,13 @@
   ![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF3F06?style=flat&logo=tensorflow)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 - **Bases de Datos:**  
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+
 
 *(Más proyectos en progreso y por venir...)*  
 
