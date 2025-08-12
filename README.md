@@ -45,5 +45,7 @@
 * Desarrollo de proyectos relacionados con **Inteligencia Artificial y Big Data** además de **aprender frameworks web para futuros proyectos**.
 * Explorando nuevas tecnologías y herramientas para el análisis de datos y el aprendizaje automático.
 * Desarrollando proyectos personales de Bots de Discord con discordpy y Webs con Django y NextJS.
+* Web scraping con Selenium en Python.
+* Unificación dentro de lo posible de lo anteriormente mencionado para mostrar el alcance que tienen mis conocimientos.
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y aportar tus ideas 🚀.
