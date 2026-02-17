@@ -6,7 +6,7 @@
 
 * **CFGM SMR** (Sistemas Microinformáticos y Redes) en IES de Teis.  
 * **CFGS DAW** (Desarrollo de Aplicaciones Web) en IES de Teis.  
-* **CFGS IABD** (Inteligencia Artificial y Big Data) en IES de Teis. ✅  
+* **CFGS IABD** (Inteligencia Artificial y Big Data) en IES de Teis. 
 
 ## 🛠️ Habilidades y Tecnologías
 
