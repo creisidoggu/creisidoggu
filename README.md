@@ -49,7 +49,7 @@
 
 * Desarrollo de proyectos basados en **Inteligencia Artificial y Big Data**, combinando análisis de datos y aprendizaje automático.  
 * Aprendiendo y aplicando el framework **Spring Boot** para desarrollo backend con Java.  
-* Creando proyectos con **Django**, **Flask** y **Symfony** orientados al desarrollo web.  
+* Creando proyectos con **FastAPI** orientados al desarrollo web.  
 * Desarrollando bots de Discord con `discord.py` y aplicaciones web con **Django** y **NextJS**.  
 * Automatizando tareas con **Selenium** en Python y explorando técnicas de **web scraping**.  
 * Integrando y unificando distintas tecnologías para mostrar la versatilidad de mis conocimientos.  
