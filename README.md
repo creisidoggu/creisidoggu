@@ -20,14 +20,14 @@
 
 * **Frameworks y Librerías:**  
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
   ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)  
   ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=NumPy)  
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF3F06?style=flat&logo=tensorflow)  
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
   ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
 
 * **Big Data y Procesamiento de Datos:**  
   ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)  
