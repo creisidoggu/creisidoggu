@@ -1,6 +1,6 @@
-# Bienvenido a mi perfil de GitHub 👋
+# Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy **Creisidoggu**, apasionado por el mundo de la tecnología, el desarrollo web y la inteligencia artificial. Este repositorio está dedicado a compartir mis proyectos, prácticas y experimentos realizados durante mi formación académica y aprendizaje continuo.
+¡Hola! Soy **creisidoggu - Fran**, apasionado por el mundo de la tecnología, el desarrollo web y la inteligencia artificial. Este repositorio está dedicado a compartir mis proyectos, prácticas y experimentos realizados durante mi formación académica y aprendizaje continuo.
 
 ## 👨‍🎓 Formación Académica
 
@@ -45,7 +45,7 @@
 
 *(Más proyectos en progreso y por venir...)*
 
-## 🌱 ¿En qué estoy trabajando actualmente?
+## ¿En qué estoy trabajando actualmente?
 
 * Desarrollo de proyectos basados en **Inteligencia Artificial y Big Data**, combinando análisis de datos y aprendizaje automático.  
 * Aprendiendo y aplicando el framework **Spring Boot** para desarrollo backend con Java.  
